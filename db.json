@@ -160,7 +160,7 @@
       "age": 6,
       "weight": 5,
       "name": "Ivy",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "103bf0d9-00a3-41d4-b980-a2f3518a6b15",
